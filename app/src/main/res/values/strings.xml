@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Easy-React</string>
+    <string name="equation_prompt">Escoge un tipo de ecuación</string>
+
+    <string-array name="equation_arrays">
+        <item>Ecuacion1</item>
+        <item>Ecuacion2</item>
+        <item>Ecuacion3</item>
+    </string-array>
+</resources>
